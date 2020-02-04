@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SphereVolume",
+      "request": "launch",
+      "mainClass": "SphereVolume",
+      "projectName": "CMSC203_Lab2_1a30fd95"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - NumericTypes",
+      "request": "launch",
+      "mainClass": "NumericTypes",
+      "projectName": "lab2_javaFundamentals_83f1fc9e",
+      "console": "externalTerminal"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SphereVolume",
+      "request": "launch",
+      "mainClass": "SphereVolume",
+      "projectName": "lab2_javaFundamentals_83f1fc9e",
+      "console": "externalTerminal"
+    }
+  ]
+  
+}
